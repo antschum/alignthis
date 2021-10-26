@@ -1,0 +1,19 @@
+cookietemple_version: '1.3.10 # <<COOKIETEMPLE_NO_BUMP>>'
+domain: cli
+language: python
+project_slug: alignthis
+project_slug_no_hyphen: alignthis
+template_version: '2.0.1 # <<COOKIETEMPLE_NO_BUMP>>'
+template_handle: cli-python
+github_username: antschum
+creator_github_username: antschum
+is_github_repo: true
+is_repo_private: false
+is_github_orga: false
+full_name: Antonia
+email: antonia.schumacher@student.uni-tuebingen.de
+project_name: alignthis
+project_short_description: 'This wonderful very important script can align two dna
+  sequences given as txt files. '
+version: 0.1.0
+license: MIT
